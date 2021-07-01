@@ -1,0 +1,3 @@
+[submodule "Components/EWaste-Servo"]
+	path = Components/EWaste-Servo
+	url = https://github.com/Jmack66/EWaste-Servo
