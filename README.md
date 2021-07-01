@@ -5,4 +5,4 @@ E-Waste recycling is becoming an increasingly mainstream topic, and perhaps find
 
 <h2> Structure:</h2>
 
-<img src = "./misc/structure.PNG">
+<img src = "./misc/structure.png">
