@@ -1,4 +1,4 @@
-# Archiv-E-Waste: An open-source E-Waste recycling archive for the centralization of useful information and research
+# Archiv-E-Waste
 
 <h2> Motivation:</h2>
 
