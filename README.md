@@ -1,4 +1,4 @@
-# Archiv-E-Waste: An open-source E-Waste recycling archive for the centralization of useful information and research
+# Archiv-E-Waste
 
 <h2> Motivation:</h2>
 
@@ -12,7 +12,7 @@ The Archiv-E also serves as a method of reducing cost/consumption for existing p
 
 <h2>How to Contribute:</h2>
 
-Direct contribution can be made by directly by forking the repositry (if this is all new to you check out the tutorials folder) and submitting a pull request.
+Direct contribution can be made by forking the repositry (if this is all new to you check out the tutorials folder) and submitting a pull request.
 
 Say for example the contribution is a component that you have made in your own git repo. You simply fork this repository and link your component as a submodule. Then submit a pull request and BAM! you have helped contribute to make the world a more sustainable and awesome place :D It is important to ensure that the submodule fits the standardized structure of its section, for components this means it must include an assembly (how to build the component), ingredients (where to find the parts), and src or assets folder (contains code, stl files, etc)
 
